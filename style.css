@@ -66,12 +66,12 @@ body {
 }
 
 .x::after {
-    content: 'O';
+    content: '×';
     font-size: 200px;
 }
 
 .o::after {
-    content: 'O';
+    content: '○';
     color: #F2EBD3;
     font-size: 225px;
 }
@@ -80,36 +80,8 @@ body {
     color: #BD022F;
 }
 
+
 h6{
     text-align: center;
     color: darkgrey;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
